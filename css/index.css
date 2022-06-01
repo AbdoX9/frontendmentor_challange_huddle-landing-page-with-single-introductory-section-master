@@ -18,6 +18,12 @@ body {
     background-color: var(--PrimaryViolet);
 }
 
+@media (max-width: 991px) {
+    body {
+        background-image: url(../photos/bg-mobile.svg);
+    }
+}
+
 img {
     max-width: 100%;
 }
