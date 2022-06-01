@@ -109,6 +109,7 @@ footer .container {
 footer .container i {
     margin-left: 10px;
     cursor: pointer;
+    color: white;
 }
 
 footer .container i:hover {
